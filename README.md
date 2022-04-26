@@ -1,19 +1,7 @@
 # RobotMonitor
 
 
-
-<div style={{height: "60vh"}}>
-<iframe
-  width="100%"
-  height="100%"
-  scrolling="no"
-  src="//player.bilibili.com/player.html?aid=683614839&bvid=BV1pS4y1w7G1&cid=584907336&page=1
-    &high_quality=1" 
-        scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"
-></iframe>
-</div>
-
-
+![top](img/top.jpg)
 
 ## 运行方法
 
