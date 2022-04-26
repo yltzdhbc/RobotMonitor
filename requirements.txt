@@ -1,0 +1,5 @@
+numpy==1.19.0
+PyInstaller==4.0
+PyQt5==5.15.0
+PyQt5-sip==12.8.1
+pyqtgraph==0.11.0
